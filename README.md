@@ -1,8 +1,11 @@
 # akshaykumar
-this is my first project
+
+This is my first project in C++.
+
+```c++
 #include<iostream>
 using namespace std;
-int maint()
+int main()
 {
 int a,b,c;
 cout<<"enter number 1";
@@ -12,3 +15,6 @@ cin>>b;
 c=a+b;
 cout<<"result is="c;
 }
+```
+
+
